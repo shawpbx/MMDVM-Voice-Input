@@ -1,0 +1,10 @@
+{
+  "name": "Remix MMDVM Voice \u0026 Audio Interface Console",
+  "description": "Voice alerts, telemetry annunciations, and audio interface routing for MMDVM-Host digital radio systems.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
